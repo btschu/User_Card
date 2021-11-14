@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.prof_pic{
+    border-radius: 50%;
+    background-color: #fff;
+    height: 75px;
+    padding: 5px;
+    margin-top: 55px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    border: 2px solid #999;
+}
+.row{
+    width: 546px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: teal;
+}
+h1{
+    margin-top: 25px;
+}
+.text{
+    margin: 0 auto;
+    border-left: gray;
+    border-bottom: gray;
+    border-right: gray;
+    border-style: solid;
+    border-top: none;
+    height: 175px;
+    width: 500px;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+p{
+    padding-top: 15px;
+}
+.map-marker{
+    width: 12px;
+}
+#location{
+    vertical-align: middle;
+}
+.gear{
+    width: 12px;
+    padding-top: 15px;
+}
