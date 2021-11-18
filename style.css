@@ -14,11 +14,12 @@
 
 #prof_pic {
     border-radius: 50%;
-    background-color: #fff;
-    height: 125px;
+    background-color: white;
+    height: 100px;
     padding: 5px;
-    margin-top: 20px;
-    margin-left: 40px;
+    margin-top: 35px;
+    margin-left: 10px;
+    border: 2px solid gray;
 }
 
 #card {
